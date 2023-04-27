@@ -1,8 +1,11 @@
 pandas
 seaborn
 matplotlib
-numpy==1.24.3
+numpy==1.23.5
 scikit-learn
 shap
 statsmodels
 pymc
+xgboost
+hyperopt==0.2.7
+shap-hypetune
