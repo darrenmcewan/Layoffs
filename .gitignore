@@ -1,3 +1,4 @@
 
 *.xml
 /.idea/Layoffs.iml
+.DS_Store
